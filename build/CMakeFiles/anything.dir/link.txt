@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/anything.dir/source.cpp.o  -o anything -rdynamic ../libmyLib.a 
