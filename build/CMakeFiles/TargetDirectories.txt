@@ -1,0 +1,3 @@
+/home/anik/Documents/projects/using_libs/build/CMakeFiles/edit_cache.dir
+/home/anik/Documents/projects/using_libs/build/CMakeFiles/anything.dir
+/home/anik/Documents/projects/using_libs/build/CMakeFiles/rebuild_cache.dir

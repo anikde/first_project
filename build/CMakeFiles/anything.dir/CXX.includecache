@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anik/Documents/projects/using_libs/myMath.h
+
+/home/anik/Documents/projects/using_libs/source.cpp
+iostream
+-
+myMath.h
+/home/anik/Documents/projects/using_libs/myMath.h
+
